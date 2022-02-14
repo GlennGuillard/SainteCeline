@@ -1,0 +1,140 @@
+.titre
+{color: black;
+font-size: 70px;
+font-style: italic;
+text-align: center;}
+
+body
+{background-image: url(fond.jpg);}
+
+h1
+{font-size: 45px;
+text-align: center;}
+
+
+
+.note
+{color: #FFC300;}
+
+.paragraphe
+{width: 450px;
+	display: block;
+margin-left: auto;
+margin-right: auto;}
+p{text-align: center;}
+
+.centrer
+{
+margin-left: auto;
+margin-right: auto;
+display: inline;
+object-position: center;
+}
+
+.parad
+{width: 550px;
+	display: block;
+margin-left: auto;
+margin-right: auto;}
+
+.espace
+{padding-top: 20px;
+padding-bottom: 20px;}
+
+.adaptation
+{display: flex;
+flex-direction:row;
+align-items: center;
+text-align: center;
+justify-content: space-evenly;
+}
+
+
+.para_bas
+
+{display: flex;
+flex-direction:column;}
+
+
+
+
+.styled { 
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: white;
+    border-width:2.5px;
+    border-color: black;
+}
+.styled:hover {
+  transition: 0.5s;
+  background-color: #4472C4
+}
+
+.styled1 { 
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: white;
+    border-width:2.5px;
+    border-color: black;
+}
+
+.styled1:hover {
+  transition: 0.5s;
+  background-color: #009900
+}
+
+
+
+.styled2 { 
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: white;
+    border-width:2.5px;
+    border-color: black;
+}
+
+.styled2:hover {
+  transition: 0.5s;
+  background-color: #CC0000
+}
+
+h2{
+  position:absolute;
+bottom:0px;
+right: 10px;
+font-style: italic;
+font-style: gray
+}
+
+.reseaux
+{ position: absolute;
+bottom:0px;
+right: 48%;
+left: 48%;}
+
+
+
+.styled3 { 
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: white;
+    border-width:2.5px;
+    border-color: black;
+}
+
+.styled3:hover {
+  transition: 0.5s;
+  background-color: #800080
+}
