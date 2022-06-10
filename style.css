@@ -172,3 +172,36 @@ left: 48%;}
   transition: 0.5s;
   background-color: #33CCCC
 }
+
+
+.styled6 { 
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: white;
+    border-width:2.5px;
+    border-color: black;
+}
+
+.styled6:hover {
+  transition: 0.5s;
+  background-color: #CC9900
+}
+
+.styled7 { 
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: white;
+    border-width:2.5px;
+    border-color: black;
+}
+
+.styled7:hover {
+  transition: 0.5s;
+  background-color: #FF7C80
+}
